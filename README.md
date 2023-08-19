@@ -1,4 +1,6 @@
-# Video-Player React Project
+<h1 align='center'>Video Player</h1>
+
+[![video-player](https://github.com/sahilatahar/Video-Player/assets/100127570/8315e5d3-9b16-4b37-a50c-141a96f2e72e)]()
 
 Welcome to the Video-Player React Project! This project provides a modern and user-friendly video player interface built using ReactJS, HTML, CSS, and JavaScript. The Video-Player is designed to be fully responsive and packed with a range of features to enhance your video watching experience.
 
@@ -54,6 +56,7 @@ To run the Video-Player project locally, follow these steps:
 ## Technologies Used
 
 - ReactJS: Building the user interface and managing component-based architecture.
+- Vite: Fast and lightweight frontend tooling for development.
 - HTML: Structuring the content and layout of the video player.
 - CSS and SCSS: Styling the UI components and ensuring responsiveness.
 - JavaScript: Adding interactivity and logic to the video player functionality.
@@ -68,6 +71,6 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 ---
 
-We hope you enjoy using the Video-Player React Project for your video playback needs. If you have any questions or feedback, please don't hesitate to reach out.
+We hope you enjoy using the Video-Player for your video playback needs. If you have any questions or feedback, please don't hesitate to reach out.
 
 Happy video watching! 🎥🍿
